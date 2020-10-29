@@ -1,4 +1,4 @@
-# NLP
+# NLP final project
 # Sentiment Classification
 The task of classifying sentiments of texts (for example movie or product reviews) has high practical significance in online marketing as well as financial prediction. This is a non-trivial task, since the concept of sentiment is not easily captured.
 For this assignment you have to use the Amazon Food Review (https://www.kaggle.com/snap/amazon-fine-food-reviews) dataset.
